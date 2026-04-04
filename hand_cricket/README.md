@@ -24,4 +24,4 @@ python hand_cricket.py
 - `random` module
 
 ## Author
-Ganesh Kumar Dileep Kumar
+Ganesh
