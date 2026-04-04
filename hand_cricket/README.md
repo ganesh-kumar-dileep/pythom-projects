@@ -24,4 +24,7 @@ python hand_cricket.py
 - `random` module
 
 ## Author
-Ganesh
+Built by a Mechanical Engineer transitioning into Robotics and Automation.
+Part of a 3-month Python → ROS 2 → Robotics learning journey.
+
+
