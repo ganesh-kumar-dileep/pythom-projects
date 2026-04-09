@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/7e74d098-6430-4227-8ccf-861fd1375b57
+
 # Industrial Safety Monitor & Data Logger
 
 A Hardware-in-the-Loop (HIL) system bridging an Arduino sensor array with a Python supervisor to monitor industrial safety zones and log data. Completed as part of Week 3 of the Robotics Roadmap.
