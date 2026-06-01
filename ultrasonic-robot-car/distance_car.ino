@@ -17,13 +17,13 @@ long duration;
 int distance;
 int distanceL = 0;
 int distanceR = 0;
-const char* ssid = "BELL219 2.4 GHz";
-const char* password = "biriyani0313";
+const char* ssid = "Your wifii ssid";
+const char* password = "wifi password";
 int serverFailCount = 0;
 int maxServerFails = 3;
 
-const char* serverUrl = "http://192.168.2.27:5000/data";
-const char* distUrl = "http://192.168.2.27:5000/distance";
+const char* serverUrl = "server url";
+const char* distUrl = "server url";
 
 void forward(int PWM);
 void backward(int PWM);
