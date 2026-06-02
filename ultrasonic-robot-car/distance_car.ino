@@ -17,7 +17,7 @@ long duration;
 int distance;
 int distanceL = 0;
 int distanceR = 0;
-const char* ssid = "Your wifii ssid";
+const char* ssid = "Your wifi ssid";
 const char* password = "wifi password";
 int serverFailCount = 0;
 int maxServerFails = 3;
